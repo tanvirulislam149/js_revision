@@ -1,1 +1,1 @@
-return res;
+console.log("john".length);
